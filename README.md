@@ -1,2 +1,2 @@
-# Magnesium2D
-A Lightweight 2D java renderer
+# Magnesium
+A Lightweight Game Engine
